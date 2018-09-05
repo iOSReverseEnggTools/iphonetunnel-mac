@@ -1,5 +1,5 @@
  
-# iphonetunnel-mac reo
+# iphonetunnel-mac repo
 github import of https://code.google.com/archive/p/iphonetunnel-mac/
 
 ## ![](./iphoneTunnel-logo.png)  iPhoneTunnel for Mac 
